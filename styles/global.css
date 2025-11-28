@@ -41,3 +41,11 @@ a:hover {
 h1, h2, h3 {
     font: inherit;
 }
+
+.grid {
+    display: grid;
+}
+
+.grid-flow-column {
+    grid-auto-flow: column;
+}
