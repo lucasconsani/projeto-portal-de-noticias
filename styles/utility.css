@@ -58,6 +58,10 @@ h1, h2, h3 {
     gap: 16px;
 }
 
+.gap-32 {
+    gap: 32px;
+}
+
 .container {
     max-width: 1280px;
     padding-inline: 32px;
